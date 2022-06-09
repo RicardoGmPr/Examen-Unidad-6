@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\Examen_U6\Examen_U6\obj\Debug\Examen_U6.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\Examen_U6\Examen_U6\obj\Debug\Examen_U6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\Examen_U6\Examen_U6\bin\Debug\Examen_U6.exe.config
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\Examen_U6\Examen_U6\bin\Debug\Examen_U6.exe
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\Examen_U6\Examen_U6\bin\Debug\Examen_U6.pdb
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\Examen_U6\Examen_U6\obj\Debug\Examen_U6.exe
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\Examen_U6\Examen_U6\obj\Debug\Examen_U6.pdb

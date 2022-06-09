@@ -1,0 +1,3 @@
+Nombre: Playstation 5  |  Descripción: Consola de videojuegos  |  Precio: 12000  |  Cantidad en Stock: 20
+Nombre: Ejemplo de nombre  |  Descripción: Descripcion  |  Precio: 4000  |  Cantidad en Stock: 4
+Nombre: ultimo  |  Descripción: ultimo  |  Precio: 1  |  Cantidad en Stock: 1
